@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Manasa Portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Manasa Kondepudi</h1>
+
+<h2>About Me</h2>
+<p>B.Tech student interested in AI, Machine Learning and Software Development.</p>
+
+<h2>Education</h2>
+<ul>
+<li>Pragati Engineering College - CGPA 7.29</li>
+</ul>
+
+<h2>Skills</h2>
+<ul>
+<li>Python</li>
+<li>SQL</li>
+<li>HTML & CSS</li>
+<li>Communication Skills</li>
+</ul>
+
+<h2>Certifications</h2>
+<ul>
+<li>HackerRank SQL Basic</li>
+<li>HackerRank SQL Intermediate</li>
+<li>HackerRank SQL Advanced</li>
+</ul>
+
+<h2>LinkedIn</h2>
+<p>www.linkedin.com/in/manasa-kondepudi-698873248</p>
+
+<h2>Contact</h2>
+<p>Email: manasakondepudi9@gmail.com</p>
+
+</body>
+</html>
